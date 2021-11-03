@@ -1,3 +1,5 @@
 # hello-world
 My first repository
-Switching career gears from teaching to coding
+Switching gears from teaching to coding
+Mathematica, Python, JavaScipt, React
+
